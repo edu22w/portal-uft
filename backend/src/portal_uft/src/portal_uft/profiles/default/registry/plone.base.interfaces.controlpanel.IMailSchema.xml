@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<registry>
+  <records interface="plone.base.interfaces.controlpanel.IMailSchema" prefix="plone">
+    <value key="email_charset">utf-8</value>
+    <value key="email_from_address">portal@uft.edu.br</value>
+    <value key="email_from_name">Portal UFT</value>
+    <value key="smtp_host">portalUFTmail</value>
+    <value key="smtp_pass">portalUFT</value>
+    <value key="smtp_port">25</value>
+    <value key="smtp_userid">portalUFT</value>
+  </records>
+</registry>
