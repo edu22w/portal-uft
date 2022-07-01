@@ -80,3 +80,6 @@ omelette
 
 public/critical.css
 src/addons/*
+
+.idea/
+.DS_store
