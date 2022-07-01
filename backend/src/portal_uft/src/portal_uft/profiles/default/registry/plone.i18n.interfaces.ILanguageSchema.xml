@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <registry>
-  <records interface="plone.i18n.interfaces.ILanguageSchema" prefix="plone">
+  <records interface="plone.i18n.interfaces.ILanguageSchema"
+           prefix="plone"
+  >
     <value key="always_show_selector">False</value>
     <value key="authenticated_users_only">False</value>
     <value key="available_languages">
