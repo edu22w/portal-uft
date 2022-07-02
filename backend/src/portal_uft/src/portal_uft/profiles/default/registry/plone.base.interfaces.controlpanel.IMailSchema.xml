@@ -4,7 +4,7 @@
            prefix="plone"
   >
     <value key="email_charset">utf-8</value>
-    <value key="email_from_address">portal@uft.edu.br</value>
+    <value key="email_from_address">info@uft.edu.br</value>
     <value key="email_from_name">Portal UFT</value>
     <value key="smtp_host">portalUFTmail</value>
     <value key="smtp_pass">portalUFT</value>
